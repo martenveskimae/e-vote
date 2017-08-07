@@ -122,13 +122,13 @@ stargazer(pool,bw,fe,re,
 ```{r ftest}
 pFtest(fe, pool)
 ```
-FEs are different from zero. FE should preferred.
+FEs are different from zero. FE should be preferred.
 
 ### Hausman
 ```{r hausman}
 phtest(fe, re)
 ```
-FE should preferred.
+FE should be preferred.
 
 ###  Groupwise heteroscedasticity and contemporaneous correlation
 ```{r hcc}
