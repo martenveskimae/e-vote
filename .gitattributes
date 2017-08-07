@@ -1,2 +1,2 @@
-*.Rmd linguist-language=R
+* linguist-vendored
 *.Rmd linguist-vendored=false
