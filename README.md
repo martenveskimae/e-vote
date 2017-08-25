@@ -1,13 +1,9 @@
 ---
 title: "Spatial panel e-voting"
 author: "Märten Veskimäe"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    code_folding: hide
 ---
+
+HTML version: https://martenveskimae.github.io/e-vote/
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = T,
